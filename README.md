@@ -1,5 +1,8 @@
 # alexnet-finetune-office-31
-Reproduce 60% accuracy on alexnet finetune task on office-31 in Tensorflow
+Reproduce 60% accuracy on alexnet finetune task on office-31 in Tensorflow.
+
+[Discussion](https://www.qin.ee/2018/06/25/da-office/)
+
 ## Data and weights
 ```python
 cd alexnet-finetune-office-31
